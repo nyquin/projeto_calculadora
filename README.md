@@ -10,5 +10,5 @@
 
 <p style="font-weight: bold;">HTML, CSS, BootStrap e JavaScript</p><br><br>
 
-<p>Link:https://papaya-granita-85b22e.netlify.app/</p> 
+<p>Link:https://calc-nycolas.netlify.app</p> 
 
